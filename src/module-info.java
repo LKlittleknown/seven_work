@@ -1,0 +1,2 @@
+module seven_work {
+}
